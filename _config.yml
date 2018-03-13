@@ -1,10 +1,10 @@
 # Site settings
-title: PHOTORAMA
+title: Trio da Serra
 email: ""
 description: "Photo Journal"
 url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
+baseurl: "/triodaserra"
+facebook_username: "triodaserrasb"
 twitter_username: ""
 instagram_username: ""
 github_username:  ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - FOTOS: "gallery"
+  - VÍDEOS: "journal"
+  - SOBRE: "about"
 
 # All translation keys
 translations:
